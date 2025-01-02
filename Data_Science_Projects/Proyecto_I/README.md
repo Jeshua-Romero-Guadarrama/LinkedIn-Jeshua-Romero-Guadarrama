@@ -1,0 +1,1 @@
+¿Te imaginas generar nombres realistas con inteligencia artificial? En este proyecto, te guiaré para desarrollar y comparar modelos de n-gramas sencillos vs una red neuronal recurrente (RNN), todo desde cero. Descubre cómo estas herramientas pueden transformar datos simples en resultados sorprendentes.
